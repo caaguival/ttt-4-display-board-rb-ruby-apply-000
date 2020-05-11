@@ -10,4 +10,4 @@ def display_board(board)
 end
 
 board = ["X","X","X"," "," "," "," "," "," "]
-display_board
+display_board(board)
